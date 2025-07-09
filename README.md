@@ -69,7 +69,7 @@ These models are specifically developed for the **Cozmo robot**, using its obser
 You can explore and use the finalized models here:
 
 - **EMRO-Cozmo (Emotion Classification)**
-  [bsu-slim/emro-cozmo on Hugging Face] (https://huggingface.co/bsu-slim/emro-cozmo)**  
+  [bsu-slim/emro-cozmo on Hugging Face](https://huggingface.co/bsu-slim/emro-cozmo)  
 
 
 - **GRED-Misty (Behavior Generation)**  
