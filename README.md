@@ -68,10 +68,11 @@ These models are specifically developed for the **Cozmo robot**, using its obser
 
 You can explore and use the finalized models here:
 
-- **[EMRO-Cozmo (Emotion Classification)](https://huggingface.co/bsu-slim/emro-cozmo)**  
-  `bsu-slim/emro-cozmo`
+- **EMRO-Cozmo (Emotion Classification)**
+  [bsu-slim/emro-cozmo on Hugging Face] (https://huggingface.co/bsu-slim/emro-cozmo)**  
 
-- **[GRED-Misty (Behavior Generation)](https://huggingface.co/bsu-slim/gred-cozmo)**  
-  `bsu-slim/gred-cozmo`
+
+- **GRED-Misty (Behavior Generation)**  
+  [bsu-slim/gred-cozmo on Hugging Face](https://huggingface.co/bsu-slim/gred-cozmo)
 
 Each model card includes sample usage code and downloadable model files.
