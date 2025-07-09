@@ -1,6 +1,6 @@
 # cozmo-models
 
-This notebook demonstrates two language models designed to enhance robot-human interactions through emotion recognition and behavior generation. All models are trained using behavior-emotion data collected from the **Cozmo robot**.
+This notebook demonstrates two language models designed to enhance robot-human interactions through emotion recognition and behavior generation. All models are trained using behavior-emotion data collected from the **Cozmo robot**. In addition to baseline models, the notebook introduces feedback-based enhancements that significantly improve the generative model’s emotional alignment and behavioral novelty—enabling more emotionally expressive and diverse robot behaviors.
 
 ## 📌 Overview
 
