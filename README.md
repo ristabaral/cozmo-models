@@ -6,7 +6,7 @@ This notebook demonstrates two language models designed to enhance robot-human i
 
 ### 1. Emotion Model of Robot Observation (EMRO-cozmo)
 
-- **Purpose**: Classify robot behaviors into one of six emotion categories based on observed behavioral patterns.
+This model classifies robot behaviors into one of six emotion categories based on observed behavioral patterns.
 - **Base Architecture**: Fine-tuned RoBERTa  
 - **Inputs**: A textual description of Cozmo robot behaviors
 - **Output**: One of six grouped emotion labels
@@ -25,10 +25,11 @@ This notebook demonstrates two language models designed to enhance robot-human i
 ---
 ### 2. 🤖 Generate Robot Emotional Display (GRED-Cozmo)
 
-- **Purpose**: Generate robot behavior sequences conditioned on given emotion labels.  
+This generative model produces robot behaviors conditioned on a given emotion label, ensuring behaviors are emotionally aligned and contextually appropriate.
 - **Base Architecture**: Fine-tuned GPT-2 Medium  
-- **Inputs**: Emotion label  
-- **Outputs**: A textual description of Cozmo robot behaviors
+- **Inputs**: Emotion Label  
+- **Output**:  A textual description of Cozmo robot behaviors
+
 
 ---
 
