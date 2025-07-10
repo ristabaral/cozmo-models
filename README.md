@@ -57,7 +57,6 @@ This generative model produces robot behaviors conditioned on a given emotion la
 - ✅ **Model Evaluation**
   - **EMRO**: Evaluated using accuracy and confusion matrix on test data.
   - **GRED**: Assessed based on the **novelty** of generated behaviors and their **emotional accuracy** (via EMRO predictions).
-  - **emotional accuracy** (e.g., via EMRO predictions).
 
 ---
 These models are specifically developed for the **Cozmo robot**, using its observed behaviors as training data for both emotion recognition and behavior generation tasks.
