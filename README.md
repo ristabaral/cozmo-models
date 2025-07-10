@@ -70,7 +70,7 @@ You can explore and use the finalized models here:
 - **EMRO-Cozmo (Emotion Classification)**
   [bsu-slim/emro-cozmo on Hugging Face](https://huggingface.co/bsu-slim/emro-cozmo)  
 
-- **GRED-Misty (Behavior Generation)**  
+- **GRED-Cozmo (Behavior Generation)**  
   [bsu-slim/gred-cozmo on Hugging Face](https://huggingface.co/bsu-slim/gred-cozmo)
 
 Each model card includes sample usage code and downloadable model files.
